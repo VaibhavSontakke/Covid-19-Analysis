@@ -1,5 +1,5 @@
 # Covid-19-Analysis
-The Objective Of this Project are as follows
+##The Objective Of this Project are as follows
 
 ->Graphing the number of confirmed cases, active cases, deaths, recoveries, mortality rate (CFR), and recovery rate
 
